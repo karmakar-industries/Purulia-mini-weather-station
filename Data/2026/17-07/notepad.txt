@@ -1,18 +1,490 @@
-[11:32] Temp: 31.4°C, Humidity: 82.0%, Pressure: 977 hPa [LOW HUMIDITY 🏜️]
-[11:33] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
-[11:34] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
-[11:35] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
-[11:36] Temp: 31.3°C, Humidity: 83.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
-[11:37] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
-[11:38] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
-[11:39] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
-[11:40] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
-[11:41] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa [HIGH TEMP 🔥, HIGH HUMIDITY 💧]
-[11:42] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
-[11:43] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
-[11:44] Temp: 31.3°C, Humidity: 83.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
-[11:45] Temp: 31.3°C, Humidity: 83.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
-[11:46] Temp: 31.2°C, Humidity: 83.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
-[11:47] Temp: 31.2°C, Humidity: 83.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
-[11:48] Temp: 31.2°C, Humidity: 83.0%, Pressure: 977 hPa [LOW TEMP ❄️, HIGH HUMIDITY 💧]
-[11:49] Temp: 31.2°C, Humidity: 83.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[11:32] Temp: 31.4°C, Humidity: 82.0%, Pressure: 977 hPa
+[11:33] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:34] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:35] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:36] Temp: 31.3°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:37] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:38] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:39] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:40] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:41] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:42] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:43] Temp: 31.4°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:44] Temp: 31.3°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:45] Temp: 31.3°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:46] Temp: 31.2°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:47] Temp: 31.2°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:48] Temp: 31.2°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:49] Temp: 31.2°C, Humidity: 83.0%, Pressure: 977 hPa
+[11:59] Temp: 30.9°C, Humidity: 83.0%, Pressure: 977 hPa
+[12:00] Temp: 30.9°C, Humidity: 83.0%, Pressure: 977 hPa
+[12:01] Temp: 30.9°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:02] Temp: 30.8°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:03] Temp: 30.8°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:04] Temp: 30.7°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:05] Temp: 30.7°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:06] Temp: 30.7°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:07] Temp: 30.7°C, Humidity: 84.0%, Pressure: 977 hPa [LOW TEMP ❄️, HIGH HUMIDITY 💧]
+[12:08] Temp: 30.7°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:09] Temp: 30.7°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:10] Temp: 30.7°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:11] Temp: 30.7°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:12] Temp: 30.7°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:13] Temp: 30.7°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:14] Temp: 30.7°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:15] Temp: 30.7°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:16] Temp: 30.7°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:17] Temp: 30.7°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:18] Temp: 30.7°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:19] Temp: 30.8°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:20] Temp: 30.8°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:21] Temp: 30.8°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:22] Temp: 30.8°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:23] Temp: 30.8°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:24] Temp: 30.8°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:25] Temp: 30.8°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:26] Temp: 30.8°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:27] Temp: 30.9°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:28] Temp: 30.9°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:29] Temp: 30.9°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:42] Temp: 31.3°C, Humidity: 82.0%, Pressure: 977 hPa
+[12:43] Temp: 31.2°C, Humidity: 82.0%, Pressure: 977 hPa
+[12:44] Temp: 31.2°C, Humidity: 83.0%, Pressure: 977 hPa
+[12:45] Temp: 31.1°C, Humidity: 83.0%, Pressure: 977 hPa
+[12:46] Temp: 31.1°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:47] Temp: 31.0°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:48] Temp: 31.0°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:49] Temp: 31.0°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:50] Temp: 31.0°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:51] Temp: 31.0°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:52] Temp: 31.0°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:53] Temp: 31.0°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[12:54] Temp: 31.0°C, Humidity: 83.0%, Pressure: 977 hPa
+[12:55] Temp: 31.0°C, Humidity: 83.0%, Pressure: 977 hPa
+[12:56] Temp: 31.0°C, Humidity: 83.0%, Pressure: 977 hPa
+[12:57] Temp: 31.0°C, Humidity: 83.0%, Pressure: 977 hPa
+[12:58] Temp: 31.0°C, Humidity: 83.0%, Pressure: 977 hPa
+[12:59] Temp: 31.0°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[13:00] Temp: 31.0°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[13:01] Temp: 31.0°C, Humidity: 83.0%, Pressure: 977 hPa
+[13:02] Temp: 31.0°C, Humidity: 84.0%, Pressure: 977 hPa [HIGH HUMIDITY 💧]
+[13:03] Temp: 31.0°C, Humidity: 83.0%, Pressure: 977 hPa
+[13:04] Temp: 31.0°C, Humidity: 83.0%, Pressure: 977 hPa
+[13:05] Temp: 31.0°C, Humidity: 83.0%, Pressure: 977 hPa
+[13:06] Temp: 31.0°C, Humidity: 83.0%, Pressure: 977 hPa
+[13:07] Temp: 31.0°C, Humidity: 83.0%, Pressure: 977 hPa
+[13:08] Temp: 31.0°C, Humidity: 83.0%, Pressure: 976 hPa
+[13:09] Temp: 31.0°C, Humidity: 83.0%, Pressure: 976 hPa
+[13:10] Temp: 31.1°C, Humidity: 83.0%, Pressure: 976 hPa
+[13:11] Temp: 31.1°C, Humidity: 83.0%, Pressure: 976 hPa
+[13:12] Temp: 31.1°C, Humidity: 83.0%, Pressure: 976 hPa
+[13:13] Temp: 31.1°C, Humidity: 82.0%, Pressure: 976 hPa
+[13:14] Temp: 31.1°C, Humidity: 82.0%, Pressure: 976 hPa
+[13:15] Temp: 31.2°C, Humidity: 82.0%, Pressure: 976 hPa
+[13:16] Temp: 31.2°C, Humidity: 82.0%, Pressure: 976 hPa
+[13:17] Temp: 31.2°C, Humidity: 82.0%, Pressure: 976 hPa
+[13:18] Temp: 31.2°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:19] Temp: 31.2°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:20] Temp: 31.2°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:21] Temp: 31.2°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:22] Temp: 31.3°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:23] Temp: 31.3°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:24] Temp: 31.3°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:25] Temp: 31.3°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:26] Temp: 31.3°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:27] Temp: 31.3°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:28] Temp: 31.4°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:29] Temp: 31.4°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:30] Temp: 31.4°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:31] Temp: 31.4°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:32] Temp: 31.4°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:33] Temp: 31.4°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:34] Temp: 31.4°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:35] Temp: 31.4°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:36] Temp: 31.4°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:37] Temp: 31.5°C, Humidity: 79.0%, Pressure: 976 hPa
+[13:38] Temp: 31.5°C, Humidity: 79.0%, Pressure: 976 hPa
+[13:39] Temp: 31.5°C, Humidity: 79.0%, Pressure: 976 hPa
+[13:40] Temp: 31.4°C, Humidity: 79.0%, Pressure: 976 hPa
+[13:41] Temp: 31.4°C, Humidity: 79.0%, Pressure: 976 hPa
+[13:42] Temp: 31.4°C, Humidity: 79.0%, Pressure: 976 hPa
+[13:43] Temp: 31.4°C, Humidity: 79.0%, Pressure: 976 hPa
+[13:44] Temp: 31.4°C, Humidity: 79.0%, Pressure: 976 hPa
+[13:45] Temp: 31.5°C, Humidity: 79.0%, Pressure: 976 hPa
+[13:46] Temp: 31.4°C, Humidity: 79.0%, Pressure: 976 hPa
+[13:47] Temp: 31.5°C, Humidity: 79.0%, Pressure: 976 hPa
+[13:48] Temp: 31.5°C, Humidity: 79.0%, Pressure: 976 hPa
+[13:49] Temp: 31.5°C, Humidity: 79.0%, Pressure: 976 hPa
+[13:50] Temp: 31.5°C, Humidity: 79.0%, Pressure: 976 hPa
+[13:51] Temp: 31.5°C, Humidity: 79.0%, Pressure: 976 hPa
+[13:52] Temp: 31.6°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:53] Temp: 31.6°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:54] Temp: 31.6°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:55] Temp: 31.6°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:56] Temp: 31.6°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:57] Temp: 31.7°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:58] Temp: 31.7°C, Humidity: 80.0%, Pressure: 976 hPa
+[13:59] Temp: 31.7°C, Humidity: 80.0%, Pressure: 976 hPa
+[14:00] Temp: 31.8°C, Humidity: 80.0%, Pressure: 976 hPa
+[14:01] Temp: 31.7°C, Humidity: 79.0%, Pressure: 976 hPa
+[14:02] Temp: 31.8°C, Humidity: 79.0%, Pressure: 976 hPa
+[14:03] Temp: 31.8°C, Humidity: 79.0%, Pressure: 976 hPa
+[14:04] Temp: 31.8°C, Humidity: 79.0%, Pressure: 976 hPa
+[14:05] Temp: 31.8°C, Humidity: 79.0%, Pressure: 976 hPa
+[14:06] Temp: 31.8°C, Humidity: 79.0%, Pressure: 976 hPa
+[14:07] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[14:08] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[14:09] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[14:10] Temp: 31.9°C, Humidity: 78.0%, Pressure: 976 hPa
+[14:11] Temp: 31.9°C, Humidity: 78.0%, Pressure: 976 hPa
+[14:12] Temp: 31.9°C, Humidity: 78.0%, Pressure: 976 hPa
+[14:13] Temp: 31.9°C, Humidity: 78.0%, Pressure: 976 hPa
+[14:14] Temp: 31.9°C, Humidity: 78.0%, Pressure: 976 hPa
+[14:15] Temp: 32.0°C, Humidity: 78.0%, Pressure: 976 hPa
+[14:16] Temp: 32.0°C, Humidity: 78.0%, Pressure: 976 hPa
+[14:17] Temp: 32.0°C, Humidity: 79.0%, Pressure: 976 hPa
+[14:18] Temp: 32.0°C, Humidity: 78.0%, Pressure: 976 hPa
+[14:19] Temp: 32.1°C, Humidity: 79.0%, Pressure: 976 hPa
+[14:20] Temp: 32.1°C, Humidity: 79.0%, Pressure: 976 hPa
+[14:21] Temp: 32.1°C, Humidity: 79.0%, Pressure: 976 hPa
+[14:22] Temp: 32.1°C, Humidity: 78.0%, Pressure: 976 hPa
+[14:23] Temp: 32.1°C, Humidity: 78.0%, Pressure: 976 hPa
+[14:24] Temp: 32.1°C, Humidity: 78.0%, Pressure: 976 hPa
+[14:25] Temp: 32.1°C, Humidity: 79.0%, Pressure: 976 hPa
+[14:26] Temp: 32.1°C, Humidity: 78.0%, Pressure: 976 hPa
+[14:27] Temp: 32.1°C, Humidity: 78.0%, Pressure: 975 hPa
+[14:28] Temp: 32.1°C, Humidity: 78.0%, Pressure: 975 hPa
+[14:29] Temp: 32.1°C, Humidity: 78.0%, Pressure: 975 hPa
+[14:30] Temp: 32.1°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:31] Temp: 32.1°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:32] Temp: 32.1°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:33] Temp: 32.2°C, Humidity: 78.0%, Pressure: 975 hPa
+[14:34] Temp: 32.1°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:35] Temp: 32.1°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:36] Temp: 32.2°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:37] Temp: 32.1°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:38] Temp: 32.1°C, Humidity: 76.0%, Pressure: 975 hPa
+[14:39] Temp: 32.1°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:40] Temp: 32.1°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:41] Temp: 32.2°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:42] Temp: 32.2°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:43] Temp: 32.2°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:44] Temp: 32.2°C, Humidity: 76.0%, Pressure: 975 hPa
+[14:45] Temp: 32.2°C, Humidity: 76.0%, Pressure: 975 hPa
+[14:46] Temp: 32.2°C, Humidity: 76.0%, Pressure: 975 hPa
+[14:47] Temp: 32.1°C, Humidity: 76.0%, Pressure: 975 hPa
+[14:48] Temp: 32.2°C, Humidity: 76.0%, Pressure: 975 hPa
+[14:49] Temp: 32.2°C, Humidity: 76.0%, Pressure: 975 hPa
+[14:50] Temp: 32.2°C, Humidity: 76.0%, Pressure: 975 hPa
+[14:51] Temp: 32.2°C, Humidity: 76.0%, Pressure: 975 hPa
+[14:52] Temp: 32.2°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:53] Temp: 32.2°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:54] Temp: 32.3°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:55] Temp: 32.3°C, Humidity: 78.0%, Pressure: 975 hPa
+[14:56] Temp: 32.3°C, Humidity: 78.0%, Pressure: 975 hPa
+[14:57] Temp: 32.3°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:58] Temp: 32.3°C, Humidity: 77.0%, Pressure: 975 hPa
+[14:59] Temp: 32.3°C, Humidity: 77.0%, Pressure: 975 hPa
+[15:00] Temp: 32.4°C, Humidity: 77.0%, Pressure: 975 hPa
+[15:01] Temp: 32.4°C, Humidity: 77.0%, Pressure: 975 hPa
+[15:02] Temp: 32.4°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:03] Temp: 32.4°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:04] Temp: 32.4°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:05] Temp: 32.4°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:06] Temp: 32.4°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:07] Temp: 32.4°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:08] Temp: 32.4°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:09] Temp: 32.4°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:10] Temp: 32.4°C, Humidity: 75.0%, Pressure: 975 hPa [LOW HUMIDITY 🏜️]
+[15:11] Temp: 32.5°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:12] Temp: 32.5°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:13] Temp: 32.5°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:14] Temp: 32.5°C, Humidity: 75.0%, Pressure: 975 hPa [LOW HUMIDITY 🏜️]
+[15:15] Temp: 32.5°C, Humidity: 75.0%, Pressure: 975 hPa [LOW HUMIDITY 🏜️]
+[15:16] Temp: 32.5°C, Humidity: 75.0%, Pressure: 975 hPa [LOW HUMIDITY 🏜️]
+[15:17] Temp: 32.6°C, Humidity: 75.0%, Pressure: 975 hPa [LOW HUMIDITY 🏜️]
+[15:18] Temp: 32.6°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:19] Temp: 32.6°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:20] Temp: 32.6°C, Humidity: 75.0%, Pressure: 975 hPa [HIGH TEMP 🔥, LOW HUMIDITY 🏜️]
+[15:21] Temp: 32.6°C, Humidity: 75.0%, Pressure: 975 hPa [LOW HUMIDITY 🏜️]
+[15:22] Temp: 32.6°C, Humidity: 75.0%, Pressure: 975 hPa [LOW HUMIDITY 🏜️]
+[15:23] Temp: 32.6°C, Humidity: 75.0%, Pressure: 975 hPa [LOW HUMIDITY 🏜️]
+[15:24] Temp: 32.6°C, Humidity: 75.0%, Pressure: 975 hPa [LOW HUMIDITY 🏜️]
+[15:25] Temp: 32.6°C, Humidity: 75.0%, Pressure: 975 hPa [LOW HUMIDITY 🏜️]
+[15:26] Temp: 32.6°C, Humidity: 75.0%, Pressure: 975 hPa [LOW HUMIDITY 🏜️]
+[15:27] Temp: 32.6°C, Humidity: 75.0%, Pressure: 975 hPa [LOW HUMIDITY 🏜️]
+[15:28] Temp: 32.6°C, Humidity: 75.0%, Pressure: 975 hPa [LOW HUMIDITY 🏜️]
+[15:29] Temp: 32.6°C, Humidity: 75.0%, Pressure: 975 hPa [LOW HUMIDITY 🏜️]
+[15:30] Temp: 32.6°C, Humidity: 75.0%, Pressure: 975 hPa [LOW HUMIDITY 🏜️]
+[15:31] Temp: 32.6°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:32] Temp: 32.5°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:33] Temp: 32.5°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:34] Temp: 32.5°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:35] Temp: 32.5°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:36] Temp: 32.5°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:37] Temp: 32.6°C, Humidity: 76.0%, Pressure: 975 hPa
+[15:38] Temp: 32.6°C, Humidity: 77.0%, Pressure: 975 hPa
+[15:39] Temp: 32.5°C, Humidity: 77.0%, Pressure: 975 hPa
+[15:40] Temp: 32.5°C, Humidity: 77.0%, Pressure: 975 hPa
+[15:41] Temp: 32.5°C, Humidity: 77.0%, Pressure: 975 hPa
+[15:42] Temp: 32.5°C, Humidity: 77.0%, Pressure: 975 hPa
+[15:43] Temp: 32.5°C, Humidity: 77.0%, Pressure: 975 hPa
+[15:44] Temp: 32.5°C, Humidity: 77.0%, Pressure: 975 hPa
+[15:45] Temp: 32.5°C, Humidity: 77.0%, Pressure: 975 hPa
+[15:46] Temp: 32.5°C, Humidity: 77.0%, Pressure: 975 hPa
+[15:47] Temp: 32.5°C, Humidity: 77.0%, Pressure: 975 hPa
+[15:48] Temp: 32.5°C, Humidity: 78.0%, Pressure: 975 hPa
+[15:49] Temp: 32.5°C, Humidity: 78.0%, Pressure: 975 hPa
+[15:50] Temp: 32.5°C, Humidity: 78.0%, Pressure: 975 hPa
+[15:51] Temp: 32.5°C, Humidity: 78.0%, Pressure: 975 hPa
+[15:52] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[15:53] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[15:54] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[15:55] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[15:56] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[15:57] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[15:58] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[15:59] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:00] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:01] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:02] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:03] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:04] Temp: 32.5°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:05] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:06] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:07] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:08] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:09] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:10] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:11] Temp: 32.4°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:12] Temp: 32.4°C, Humidity: 77.0%, Pressure: 975 hPa
+[16:13] Temp: 32.4°C, Humidity: 77.0%, Pressure: 975 hPa
+[16:14] Temp: 32.4°C, Humidity: 77.0%, Pressure: 975 hPa
+[16:15] Temp: 32.4°C, Humidity: 77.0%, Pressure: 975 hPa
+[16:16] Temp: 32.4°C, Humidity: 77.0%, Pressure: 975 hPa
+[16:17] Temp: 32.3°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:18] Temp: 32.3°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:19] Temp: 32.3°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:20] Temp: 32.3°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:21] Temp: 32.2°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:22] Temp: 32.2°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:23] Temp: 32.2°C, Humidity: 78.0%, Pressure: 975 hPa
+[16:24] Temp: 32.1°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:25] Temp: 32.1°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:26] Temp: 32.1°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:27] Temp: 32.1°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:28] Temp: 32.0°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:29] Temp: 32.0°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:30] Temp: 32.0°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:31] Temp: 31.9°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:32] Temp: 31.9°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:33] Temp: 31.9°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:34] Temp: 31.9°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:35] Temp: 31.9°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:36] Temp: 31.8°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:37] Temp: 31.8°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:38] Temp: 31.8°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:39] Temp: 31.8°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:40] Temp: 31.8°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:41] Temp: 31.8°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:42] Temp: 31.8°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:43] Temp: 31.8°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:44] Temp: 31.8°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:45] Temp: 31.8°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:46] Temp: 31.8°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:47] Temp: 31.8°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:48] Temp: 31.8°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:49] Temp: 31.8°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:50] Temp: 31.7°C, Humidity: 79.0%, Pressure: 975 hPa
+[16:51] Temp: 31.7°C, Humidity: 80.0%, Pressure: 975 hPa
+[16:52] Temp: 31.8°C, Humidity: 80.0%, Pressure: 975 hPa
+[16:53] Temp: 31.8°C, Humidity: 80.0%, Pressure: 975 hPa
+[16:54] Temp: 31.7°C, Humidity: 80.0%, Pressure: 975 hPa
+[16:55] Temp: 31.7°C, Humidity: 80.0%, Pressure: 975 hPa
+[16:56] Temp: 31.7°C, Humidity: 81.0%, Pressure: 975 hPa
+[16:57] Temp: 31.7°C, Humidity: 81.0%, Pressure: 975 hPa
+[16:58] Temp: 31.7°C, Humidity: 80.0%, Pressure: 975 hPa
+[16:59] Temp: 31.7°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:00] Temp: 31.7°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:01] Temp: 31.6°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:02] Temp: 31.6°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:03] Temp: 31.6°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:04] Temp: 31.6°C, Humidity: 80.0%, Pressure: 975 hPa
+[17:05] Temp: 31.6°C, Humidity: 80.0%, Pressure: 975 hPa
+[17:06] Temp: 31.6°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:07] Temp: 31.6°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:08] Temp: 31.6°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:09] Temp: 31.6°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:10] Temp: 31.6°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:11] Temp: 31.6°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:12] Temp: 31.6°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:13] Temp: 31.6°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:14] Temp: 31.5°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:15] Temp: 31.5°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:16] Temp: 31.5°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:17] Temp: 31.5°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:18] Temp: 31.5°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:19] Temp: 31.5°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:20] Temp: 31.6°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:21] Temp: 31.5°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:22] Temp: 31.5°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:23] Temp: 31.5°C, Humidity: 81.0%, Pressure: 975 hPa
+[17:24] Temp: 31.5°C, Humidity: 82.0%, Pressure: 975 hPa
+[17:25] Temp: 31.5°C, Humidity: 82.0%, Pressure: 975 hPa
+[17:26] Temp: 31.5°C, Humidity: 82.0%, Pressure: 975 hPa
+[17:27] Temp: 31.5°C, Humidity: 82.0%, Pressure: 975 hPa
+[17:28] Temp: 31.6°C, Humidity: 82.0%, Pressure: 975 hPa
+[17:29] Temp: 31.6°C, Humidity: 82.0%, Pressure: 975 hPa
+[17:30] Temp: 31.6°C, Humidity: 82.0%, Pressure: 975 hPa
+[17:31] Temp: 31.6°C, Humidity: 82.0%, Pressure: 975 hPa
+[17:32] Temp: 31.5°C, Humidity: 82.0%, Pressure: 975 hPa
+[17:33] Temp: 31.5°C, Humidity: 82.0%, Pressure: 975 hPa
+[17:34] Temp: 31.5°C, Humidity: 83.0%, Pressure: 975 hPa
+[17:35] Temp: 31.5°C, Humidity: 83.0%, Pressure: 975 hPa
+[17:36] Temp: 31.5°C, Humidity: 83.0%, Pressure: 976 hPa
+[17:37] Temp: 31.5°C, Humidity: 83.0%, Pressure: 975 hPa
+[17:38] Temp: 31.6°C, Humidity: 83.0%, Pressure: 976 hPa
+[17:39] Temp: 31.5°C, Humidity: 83.0%, Pressure: 976 hPa
+[17:40] Temp: 31.5°C, Humidity: 83.0%, Pressure: 976 hPa
+[17:41] Temp: 31.5°C, Humidity: 82.0%, Pressure: 976 hPa
+[17:42] Temp: 31.5°C, Humidity: 82.0%, Pressure: 976 hPa
+[17:43] Temp: 31.4°C, Humidity: 82.0%, Pressure: 976 hPa
+[17:44] Temp: 31.4°C, Humidity: 83.0%, Pressure: 976 hPa
+[17:45] Temp: 31.4°C, Humidity: 83.0%, Pressure: 976 hPa
+[17:46] Temp: 31.3°C, Humidity: 83.0%, Pressure: 976 hPa
+[17:47] Temp: 31.4°C, Humidity: 83.0%, Pressure: 976 hPa
+[17:49] Temp: 31.4°C, Humidity: 83.0%, Pressure: 976 hPa
+[17:50] Temp: 31.4°C, Humidity: 83.0%, Pressure: 976 hPa
+[17:51] Temp: 31.5°C, Humidity: 82.0%, Pressure: 976 hPa
+[17:52] Temp: 31.5°C, Humidity: 82.0%, Pressure: 976 hPa
+[17:53] Temp: 31.6°C, Humidity: 82.0%, Pressure: 976 hPa
+[17:54] Temp: 31.6°C, Humidity: 82.0%, Pressure: 976 hPa
+[17:55] Temp: 31.6°C, Humidity: 82.0%, Pressure: 976 hPa
+[17:56] Temp: 31.6°C, Humidity: 82.0%, Pressure: 976 hPa
+[17:57] Temp: 31.6°C, Humidity: 82.0%, Pressure: 976 hPa
+[17:58] Temp: 31.6°C, Humidity: 82.0%, Pressure: 976 hPa
+[17:59] Temp: 31.6°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:00] Temp: 31.6°C, Humidity: 82.0%, Pressure: 976 hPa
+[18:01] Temp: 31.7°C, Humidity: 82.0%, Pressure: 976 hPa
+[18:02] Temp: 31.7°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:03] Temp: 31.6°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:04] Temp: 31.6°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:05] Temp: 31.6°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:06] Temp: 31.7°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:07] Temp: 31.7°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:08] Temp: 31.7°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:09] Temp: 31.7°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:10] Temp: 31.7°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:11] Temp: 31.6°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:12] Temp: 31.6°C, Humidity: 82.0%, Pressure: 976 hPa
+[18:13] Temp: 31.6°C, Humidity: 82.0%, Pressure: 976 hPa
+[18:14] Temp: 31.6°C, Humidity: 83.0%, Pressure: 976 hPa
+[18:15] Temp: 31.6°C, Humidity: 82.0%, Pressure: 976 hPa
+[18:16] Temp: 31.6°C, Humidity: 82.0%, Pressure: 976 hPa
+[18:17] Temp: 31.6°C, Humidity: 83.0%, Pressure: 976 hPa
+[18:18] Temp: 31.6°C, Humidity: 83.0%, Pressure: 976 hPa
+[18:19] Temp: 31.6°C, Humidity: 82.0%, Pressure: 976 hPa
+[18:21] Temp: 31.6°C, Humidity: 82.0%, Pressure: 976 hPa
+[18:22] Temp: 31.6°C, Humidity: 82.0%, Pressure: 976 hPa
+[18:24] Temp: 31.7°C, Humidity: 82.0%, Pressure: 976 hPa
+[18:25] Temp: 31.7°C, Humidity: 82.0%, Pressure: 976 hPa
+[18:26] Temp: 31.7°C, Humidity: 82.0%, Pressure: 976 hPa
+[18:27] Temp: 31.7°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:28] Temp: 31.7°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:29] Temp: 31.7°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:30] Temp: 31.7°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:31] Temp: 31.7°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:32] Temp: 31.7°C, Humidity: 81.0%, Pressure: 976 hPa
+[18:36] Temp: 31.8°C, Humidity: 80.0%, Pressure: 976 hPa
+[18:37] Temp: 31.8°C, Humidity: 80.0%, Pressure: 976 hPa
+[18:39] Temp: 31.8°C, Humidity: 79.0%, Pressure: 976 hPa
+[18:41] Temp: 31.8°C, Humidity: 79.0%, Pressure: 976 hPa
+[18:43] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[18:44] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[18:45] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[18:46] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[18:48] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[18:49] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[18:50] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[18:51] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[18:52] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[18:53] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[18:54] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[18:55] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[18:56] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[18:57] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[18:58] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:00] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:01] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:02] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:03] Temp: 31.9°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:04] Temp: 32.0°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:05] Temp: 32.0°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:06] Temp: 32.0°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:07] Temp: 32.0°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:08] Temp: 32.0°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:11] Temp: 32.0°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:12] Temp: 32.0°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:13] Temp: 32.0°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:14] Temp: 32.0°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:15] Temp: 32.0°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:16] Temp: 32.0°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:18] Temp: 32.0°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:21] Temp: 32.1°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:22] Temp: 32.0°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:23] Temp: 32.1°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:24] Temp: 32.0°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:25] Temp: 32.0°C, Humidity: 79.0%, Pressure: 976 hPa
+[19:26] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:27] Temp: 32.1°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:28] Temp: 32.1°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:29] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:30] Temp: 32.1°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:31] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:32] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:33] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:34] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:35] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:36] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:37] Temp: 32.0°C, Humidity: 80.0%, Pressure: 977 hPa
+[19:38] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:39] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:40] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:41] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:42] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:43] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:44] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:45] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:46] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:47] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:48] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:49] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:50] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:51] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:52] Temp: 32.0°C, Humidity: 79.0%, Pressure: 977 hPa
+[19:53] Temp: 32.0°C, Humidity: 80.0%, Pressure: 977 hPa
+[19:54] Temp: 32.0°C, Humidity: 80.0%, Pressure: 977 hPa
+[19:55] Temp: 32.0°C, Humidity: 80.0%, Pressure: 977 hPa
+[19:56] Temp: 32.0°C, Humidity: 80.0%, Pressure: 977 hPa
+[19:57] Temp: 32.0°C, Humidity: 81.0%, Pressure: 977 hPa
+[19:58] Temp: 32.0°C, Humidity: 81.0%, Pressure: 977 hPa
+[19:59] Temp: 32.0°C, Humidity: 82.0%, Pressure: 977 hPa
+[20:00] Temp: 32.0°C, Humidity: 82.0%, Pressure: 977 hPa
+[20:01] Temp: 32.0°C, Humidity: 82.0%, Pressure: 977 hPa
+[20:02] Temp: 31.9°C, Humidity: 81.0%, Pressure: 977 hPa
+[20:03] Temp: 32.0°C, Humidity: 81.0%, Pressure: 977 hPa
+[20:04] Temp: 32.0°C, Humidity: 81.0%, Pressure: 977 hPa
+[20:05] Temp: 31.9°C, Humidity: 81.0%, Pressure: 977 hPa
+[20:06] Temp: 32.0°C, Humidity: 81.0%, Pressure: 977 hPa
+[20:07] Temp: 32.0°C, Humidity: 81.0%, Pressure: 977 hPa
+[20:08] Temp: 32.0°C, Humidity: 81.0%, Pressure: 978 hPa
+[20:09] Temp: 31.9°C, Humidity: 81.0%, Pressure: 978 hPa
+[20:10] Temp: 31.9°C, Humidity: 81.0%, Pressure: 978 hPa
+[20:11] Temp: 31.9°C, Humidity: 81.0%, Pressure: 978 hPa
+[20:12] Temp: 32.0°C, Humidity: 81.0%, Pressure: 978 hPa
+[20:13] Temp: 31.9°C, Humidity: 81.0%, Pressure: 977 hPa
+[20:14] Temp: 31.9°C, Humidity: 81.0%, Pressure: 977 hPa
+[20:15] Temp: 31.9°C, Humidity: 81.0%, Pressure: 977 hPa
+[20:16] Temp: 31.9°C, Humidity: 81.0%, Pressure: 977 hPa
+[20:17] Temp: 31.9°C, Humidity: 81.0%, Pressure: 977 hPa
+[20:18] Temp: 32.0°C, Humidity: 81.0%, Pressure: 978 hPa
